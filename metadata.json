@@ -1,0 +1,6 @@
+{
+  "name": "Nexoranova",
+  "description": "High-tech futuristic hero department designed with dark cyber-grid glows, glowing chamfered bento cards, and interactive navbar links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
